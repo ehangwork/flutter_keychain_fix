@@ -11,7 +11,7 @@ nothing else on the device can read it.
 >
 > `flutter_keychain_fix` began as
 > [`flutter_keychain`](https://pub.dev/packages/flutter_keychain) by Jeroen Trappers,
-> which upstream no longer maintains. It keeps that package's behaviour and storage
+> It keeps that package's behaviour and storage
 > layout, and continues from there under the `flutter_keychain_fix` name.
 >
 > Both packages can be installed side by side: their method channels and Android package
