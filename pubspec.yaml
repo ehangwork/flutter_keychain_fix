@@ -1,6 +1,6 @@
 name: flutter_keychain_fix
 description: Flutter secure storage via Keychain (iOS) and Keystore (Android).
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/ehangwork/flutter_keychain_fix
 repository: https://github.com/ehangwork/flutter_keychain_fix
 issue_tracker: https://github.com/ehangwork/flutter_keychain_fix/issues
