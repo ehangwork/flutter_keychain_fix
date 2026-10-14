@@ -1,6 +1,6 @@
 # flutter_keychain_fix
 
-[![pub package](https://img.shields.io/badge/pub-0.0.2-blue.svg)](https://pub.dev/packages/flutter_keychain_fix)
+[![pub package](https://img.shields.io/badge/pub-0.0.3-blue.svg)](https://pub.dev/packages/flutter_keychain_fix)
 ![Platforms](https://img.shields.io/badge/platforms-Android%20%7C%20iOS-green.svg)
 
 Secure string storage for Flutter, backed by the **iOS Keychain** and the **Android
