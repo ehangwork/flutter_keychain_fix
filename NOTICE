@@ -1,0 +1,16 @@
+flutter_keychain_fix
+====================
+
+This package is a maintained fork of `flutter_keychain`
+(https://github.com/jeroentrappers/flutter_keychain), Copyright (c) 2018 Jeroen
+Trappers, also BSD 3-Clause.
+
+The Android encryption layer is derived in part from `flutter_secure_storage`
+(https://github.com/mogol/flutter_secure_storage), Copyright (c) 2017 German
+Saprykin, also BSD 3-Clause.
+
+Both upstream notices are reproduced in LICENSE alongside this package's own
+copyright, as BSD 3-Clause requires of any source or binary redistribution.
+Neither upstream project is maintained; this fork exists because of it.
+
+The terms in LICENSE apply to the whole distribution.
