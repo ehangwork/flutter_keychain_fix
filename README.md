@@ -1,9 +1,7 @@
 # flutter_keychain_fix
 
-[![pub points](https://img.shields.io/pub/points/flutter_keychain_fix)](https://pub.dev/packages/flutter_keychain_fix)
-[![pub likes](https://img.shields.io/pub/likes/flutter_keychain_fix)](https://pub.dev/packages/flutter_keychain_fix)
-[![Platform iOS](https://img.shields.io/badge/platform-iOS-000000.svg)](https://flutter.dev)
-[![Platform Android](https://img.shields.io/badge/platform-Android-3DDC84.svg)](https://flutter.dev)
+[![pub package](https://img.shields.io/badge/pub-0.0.1-blue.svg)](https://pub.dev/packages/flutter_keychain_fix)
+![Platforms](https://img.shields.io/badge/platforms-Android%20%7C%20iOS-green.svg)
 
 Secure string storage for Flutter, backed by the **iOS Keychain** and the **Android
 Keystore**. Values are addressed by key, so `get` returns exactly what `put` stored and
