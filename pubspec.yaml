@@ -1,0 +1,27 @@
+name: flutter_keychain_fix
+description: Flutter secure storage via Keychain (iOS) and Keystore (Android). Supports optional iOS access groups and item labels.
+version: 0.0.1
+homepage: https://github.com/ehangwork/flutter_keychain_fix
+repository: https://github.com/ehangwork/flutter_keychain_fix
+issue_tracker: https://github.com/ehangwork/flutter_keychain_fix/issues
+
+environment:
+  sdk: ^3.12.0
+  flutter: ">=3.44.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  plugin:
+    platforms:
+      android:
+        package: com.ehangwork.flutterkeychainfix
+        pluginClass: FlutterKeychainFixPlugin
+      ios:
+        pluginClass: FlutterKeychainFixPlugin
