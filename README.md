@@ -45,7 +45,7 @@ nothing else on the device can read it.
 
 ```yaml
 dependencies:
-  flutter_keychain_fix: ^0.0.2
+  flutter_keychain_fix: ^0.0.3
 ```
 
 ```dart
